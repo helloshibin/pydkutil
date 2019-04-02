@@ -1,0 +1,5 @@
+mysqlclient
+configparser
+pika
+tablestore
+twine
